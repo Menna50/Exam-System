@@ -1,0 +1,75 @@
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.exe
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.deps.json
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.runtimeconfig.json
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.dll
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.pdb
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.csproj.AssemblyReference.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfoInputs.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfo.cs
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.csproj.CoreCompileInputs.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.dll
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\refint\Day07.dll
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.pdb
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.genruntimeconfig.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\ref\Day07.dll
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.csproj.AssemblyReference.cache
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfoInputs.cache
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfo.cs
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.csproj.CoreCompileInputs.cache
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.dll
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\refint\Day07.dll
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.pdb
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\bin\Debug\net6.0\Day07.exe
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\bin\Debug\net6.0\Day07.deps.json
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\bin\Debug\net6.0\Day07.runtimeconfig.json
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\bin\Debug\net6.0\Day07.dll
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\bin\Debug\net6.0\Day07.pdb
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\Day07.genruntimeconfig.cache
+C:\Users\Hadeer\Downloads\Day07\Day07\Day07\obj\Debug\net6.0\ref\Day07.dll
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\bin\Debug\net6.0\Day07.exe
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\bin\Debug\net6.0\Day07.deps.json
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\bin\Debug\net6.0\Day07.runtimeconfig.json
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\bin\Debug\net6.0\Day07.dll
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\bin\Debug\net6.0\Day07.pdb
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.csproj.AssemblyReference.cache
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfoInputs.cache
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfo.cs
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.csproj.CoreCompileInputs.cache
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.dll
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\refint\Day07.dll
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.pdb
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\Day07.genruntimeconfig.cache
+C:\Users\Hadeer\Desktop\Day07\Day07\Day07\obj\Debug\net6.0\ref\Day07.dll
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\bin\Debug\net6.0\Day07.exe
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\bin\Debug\net6.0\Day07.deps.json
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\bin\Debug\net6.0\Day07.runtimeconfig.json
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\bin\Debug\net6.0\Day07.dll
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\bin\Debug\net6.0\Day07.pdb
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.csproj.AssemblyReference.cache
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfoInputs.cache
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfo.cs
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.csproj.CoreCompileInputs.cache
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.dll
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\refint\Day07.dll
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.pdb
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\Day07.genruntimeconfig.cache
+C:\Users\Hadeer\Desktop\my edite\test\Day07\Day07\Day07\obj\Debug\net6.0\ref\Day07.dll
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\bin\Debug\net6.0\Day07.exe
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\bin\Debug\net6.0\Day07.deps.json
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\bin\Debug\net6.0\Day07.runtimeconfig.json
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\bin\Debug\net6.0\Day07.dll
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\bin\Debug\net6.0\Day07.pdb
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.csproj.AssemblyReference.cache
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfoInputs.cache
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfo.cs
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.csproj.CoreCompileInputs.cache
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.dll
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\refint\Day07.dll
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.pdb
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\Day07.genruntimeconfig.cache
+D:\ITI\.Net Track\OOP Course\Labs\Final Project\Day07\Day07\obj\Debug\net6.0\ref\Day07.dll
